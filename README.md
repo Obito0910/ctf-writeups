@@ -9,17 +9,9 @@ This repository documents my learning journey in ethical hacking, web exploitati
 ## 🎯 Platforms
 - picoCTF
 - TryHackMe
+- 247_CTF
+- Hackviser
 - Practice Labs & Personal Research
-
----
-
-## 📂 Writeups
-
-### 🍪 picoCTF
-- Cookies Challenge — Web Exploitation
-
-### 🧪 TryHackMe
-- (Upcoming Writeups)
 
 ---
 
