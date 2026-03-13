@@ -71,7 +71,7 @@ While running the script, the server occasionally bypassed the fake headers and 
 
 - **Correct Credentials Found**: `nadir:vides`
     
-- **Flag**: `picoCTF{f00l_7h4t_l1m1t3r_9ea694c6}`
+- **Flag**: `picoCTF{***********************}`
     
 
 ### Conclusion
